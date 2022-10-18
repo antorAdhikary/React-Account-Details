@@ -1,0 +1,11 @@
+
+.fullPage {
+    display: flex;
+}
+.leftSide{
+    width: 70%;
+    border-right: 1px solid gray;
+}
+.rightSide {
+    margin-left: 10px;
+}
